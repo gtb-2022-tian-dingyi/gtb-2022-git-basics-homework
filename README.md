@@ -22,4 +22,4 @@
 
 - Here is a group photo of me and my girlfriend(I love my girlfriend)
   
-  ![](C:\Users\tiandingyi\Desktop\gtb-2022-git-basics-homework\1632230350534.jpeg)
+  ![](.\1632230350534.jpeg)
