@@ -21,5 +21,5 @@
 - WeChat: 13960179551
 
 - Here is a group photo of me and my girlfriend(I love my girlfriend)
-
-- ![](C:\Users\tiandingyi\AppData\Roaming\marktext\images\2022-01-10-17-19-58-image.png)
+  
+  ![](C:\Users\tiandingyi\Desktop\gtb-2022-git-basics-homework\1632230350534.jpeg)
